@@ -1,0 +1,13 @@
+Logs Commands
+
+git log
+git log -p
+git log --oneline
+git log -2
+git log -i --grep="text"
+git log -i -G="Text in code"
+git log -i --author="Ajay Suneja"
+git log --start
+facebook :  https://www.facebook.com/tutorialspoint2016/
+
+facebook Group : https://www.facebook.com/groups/1981858225403035/
